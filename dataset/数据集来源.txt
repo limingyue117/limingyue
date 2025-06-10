@@ -1,0 +1,2 @@
+PRCC数据集：https://www.isee-ai.cn/~yangqize/clothing.html
+NKUP+数据集：https://github.com/nkicsl/NKUP-dataset
